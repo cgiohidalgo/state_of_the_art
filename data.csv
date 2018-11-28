@@ -6,5 +6,5 @@ flare.analytics.cluster.CommunityStructure,3812
 flare.analytics.cluster.HierarchicalCluster,6714
 flare.analytics.cluster.MergeEdge,743
 flare.analytics.graph,
-,
-,
+flare.analytics.graph.BetweennessCentrality,3534
+flare.analytics.graph.LinkDistance,5731
