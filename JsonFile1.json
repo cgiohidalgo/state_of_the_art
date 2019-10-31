@@ -1,0 +1,72 @@
+{
+  "Degen2017{": {
+    "EntryType": "article",
+    "author": "Degen, C L and Reinhard, F and Cappellaro, P",
+    "journal": "Reviews of Modern Physics",
+    "number": "3",
+    "pages": "35002",
+    "publisher": "APS",
+    "title": "Quantum sensing",
+    "volume": "89",
+    "year": "2017"
+  },
+  "Georgescu2014{": {
+    "EntryType": "article",
+    "author": "Georgescu, I M and Ashhab, Sahel and Nori, Franco",
+    "journal": "Reviews of Modern Physics",
+    "number": "1",
+    "pages": "153",
+    "publisher": "APS",
+    "title": "Quantum simulation",
+    "volume": "86",
+    "year": "2014"
+  },
+  "Broadbent2016{": {
+    "EntryType": "article",
+    "author": "Broadbent, Anne and Schaffner, Christian",
+    "issn": "0925-1022",
+    "journal": "Designs, Codes and Cryptography",
+    "number": "1",
+    "pages": "351--382",
+    "publisher": "Springer",
+    "title": "Quantum cryptography beyond quantum key distribution",
+    "volume": "78",
+    "year": "2016"
+  },
+  "Chiaverini2016{": {
+    "EntryType": "article",
+    "author": "Chiaverini, J and Schaetz, T and Britton, Joseph W and Itano, Wayne M and Jost, John D and Knill, Emanuel H and Langer, C and Leibfried, Dietrich G and Ozeri, R and Wineland, David J",
+    "journal": "Nature",
+    "keywords": "uno,dos,tres",
+    "title": "Quantum Teleportation with Atomic Qubits",
+    "year": "2016"
+  },
+  "mslq2{": {
+    "EntryType": "article",
+    "abstract": "Computer science education, CS1, Bayesian networks Researchers have long tried to identify factors that could explain why programming is easier for some than the others or that can be used to predict programming performance. The motivation behind most studies has been identifying students who are at risk to fail and improving passing rates on introductory courses as these have a direct impact on retention rates. Various potential factors have been identified, and these include factors related to students' background, programming behavior or psychological and cognitive characteristics. However, the results have been inconsistent. This thesis replicates some of these previous studies in a new context, and pairwise analyses of various factors and performance are performed. We have data collected from 3 different cohorts of an introductory Java programming course that contains a large number of exercises and where personal assistance is available. In addition, this thesis contributes to the topic by modeling the dependencies between several of these factors. This is done by learning a Bayesian network from the data. We will then evaluate these networks by trying to predict whether students will pass or fail the course. The focus is on factors related to students' background and psychological and cognitive characteristics. No clear predictors were identified in this study. We were able to find weak correlations between some of the factors and programming performance. However, in general, the correlations we found were smaller than in previous studies or nonexistent. In addition, finding just one optimal network that describes the domain is not straightforward , and the classification rates obtained were poor. Thus, the results suggest that factors related to students' background and psychological and cognitive characteristics that were included in this study are not good predictors of programming performance in our context.",
+    "author": "Longi, Krista and Longi, Krista",
+    "keywords": "ACM Computing Classification System (CCS), uno",
+    "title": "Exploring factors that affect performance on introductory programming courses Department of Computer Science",
+    "url": "https://core.ac.uk/download/pdf/78562457.pdf",
+    "year": "2016"
+  },
+  "hola{": {
+    "EntryType": "article",
+    "abstract": "As an important coordination and cooperation mechanism in multi-agent systems, coalition of agents exhibits some excellent characteristics and draws researchers' attention increasingly. Cooperation formation has been a very active area of research in multi-agent systems. An efficient algorithm is needed for this topic since the numbers of the possible coalitions are exponential in the number of agents. Genetic algorithm (GA) has been widely reckoned as a useful tool for obtaining high quality and optimal solutions for a broad range of combinatorial optimization problems due to its intelligent advantages of self-organization, self-adaptation and inherent parallelism. This paper proposes a GA-based algorithm for coalition structure formation which aims at achieving goals of high performance, scalability, and fast convergence rate simultaneously. A novel 2D binary chromosome encoding approach and corresponding crossover and mutation operators are presented in this paper. Two valid parental chromosomes are certain to produce a valid offspring under the operation of the crossover operator. This improves the efficiency and shortens the running time greatly. The proposed algorithm is evaluated through a robust comparison with heuristic search algorithms. We have confirmed that our new algorithm is robust, self-adaptive and very efficient by experiments. The results of the proposed algorithm are found to be satisfactory. {\\textcopyright",
+    "author": "Yang, Jingan and Luo, Zhenghu",
+    "doi": "10.1016/j.asoc.2006.04.004",
+    "isbn": "9781932415667",
+    "issn": "15684946",
+    "journal": "Applied Soft Computing Journal",
+    "keywords": "Agent coalition formation,Chromosome encoding,Crossover and mutation,Genetic algorithm,Multiagent system",
+    "month": "mar",
+    "number": "2",
+    "pages": "561--568",
+    "pmid": "262360003097013717",
+    "publisher": "Elsevier",
+    "title": "{Coalition formation mechanism in multi-agent systems based on genetic algorithms",
+    "url": "https://www.sciencedirect.com/science/article/pii/S1568494606000421",
+    "volume": "7",
+    "year": "2007"
+  }
+}
